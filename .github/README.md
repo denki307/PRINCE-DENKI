@@ -160,11 +160,3 @@ To get an instant result do /reboot in chat of logger .
 ![image](https://graph.org/file/801e199f756d83cb4d7f5-068bb84543385c04b6.jpg)
 
 
-### Channel Support
-Bot also Supported with Channels. Just add bot and assistant to the Channel as Admin. </details>
-
-### Credits : 
-
-- [Shashank Shukla](https://github.com/itzshukla)
-- [Telegram](https://t.me/SHASHANKDEVS)
-- Everyone In This Journey !
