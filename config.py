@@ -26,10 +26,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SHIVANSHDEVS")
-BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
-BOT_NAME = getenv("BOT_NAME", "SAPNA")
-ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "DENKI1234")
+BOT_USERNAME = getenv("BOT_USERNAME", "ZafiraaMusicBot")
+BOT_NAME = getenv("BOT_NAME", "ZAFIRA")
+ASSUSERNAME = getenv("ASSUSERNAME", "MUSIC_BOT_WORLD")
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -45,16 +45,16 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 DEEP_API = getenv("DEEP_API")
 
 # Git
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/itzshukla/STRANGER-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/denki307/PRINCE-DENKI")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ITSZSHUKLA")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MASTIWITHFRIENDSXD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_WORLD")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ISHU_FaN_CluB")
 
 # YT-API Get from @AmShashank on tg
-YOUR_API_KEY = getenv("YOUR_API_KEY", "stranger")
+YOUR_API_KEY = getenv("YOUR_API_KEY", "xbit_e40oXFazWDFy6rLPPICI1M8KdlW-91Dc")
 YOUR_API_URL = getenv("YOUR_API_URL", "http://46.38.237.240:8000")
 
 # Assistant settings
