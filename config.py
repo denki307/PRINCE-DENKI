@@ -54,7 +54,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_WORLD")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ISHU_FaN_CluB")
 
 # YT-API Get from @AmShashank on tg
-YOUR_API_KEY = getenv("YOUR_API_KEY", "xbit_e40oXFazWDFy6rLPPICI1M8KdlW-91Dc")
+YOUR_API_KEY = getenv("YOUR_API_KEY", "xbit_FoPZuIwe2QtqAbVbc1Yc2YLWqk1Phhqe")
 YOUR_API_URL = getenv("YOUR_API_URL", "https://tgapi.xbitcode.com")
 
 # Assistant settings
