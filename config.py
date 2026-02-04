@@ -55,7 +55,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ISHU_FaN_CluB")
 
 # YT-API Get from @AmShashank on tg
 YOUR_API_KEY = getenv("YOUR_API_KEY", "xbit_e40oXFazWDFy6rLPPICI1M8KdlW-91Dc")
-YOUR_API_URL = getenv("YOUR_API_URL", "http://46.38.237.240:8000")
+YOUR_API_URL = getenv("YOUR_API_URL", "https://tgapi.xbitcode.com")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
