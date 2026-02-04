@@ -36,7 +36,7 @@ API_BASE_URL = "https://tgapi.xbitcode.com"
 API_KEY = os.getenv("API_KEY", "xbit_e40oXFazWDFy6rLPPICI1M8KdlW-91Dc")
 
 async def get_telegram_file(telegram_url: str, video_id: str, file_type: str) -> str:
-    logger = LOGGER("StrangerAPI/Youtube.py")
+    logger = LOGGER("Youtube.py")
     try:
         extension = ".webm" if file_type == "audio" else ".mkv"
         file_path = os.path.join("downloads", f"{video_id}{extension}")
