@@ -84,7 +84,7 @@ def welcomepic(pic, user, chatname, id, uname, brightness_factor=1.3):
     pfp = circle(pfp, brightness_factor=brightness_factor)
     pfp = pfp.resize((535, 535))
     draw = ImageDraw.Draw(background)
-    font_big = ImageFont.truetype('SHUKLAMUSIC/assets/Cinzel-Bold.ttf', size=70)
+    font_big = ImageFont.truetype('SHUKLAMUSIC/assets/wel2.png', size=70)
     font = ImageFont.truetype('SHUKLAMUSIC/assets/font.ttf', size=60)
     draw.text((700, 300), "ISHU FAN CLUB", fill=(255, 0, 0), font=font_big)
     draw.text((655, 465), f'ID: {id}', fill=(255, 255, 255), font=font)
